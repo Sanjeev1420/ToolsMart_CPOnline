@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/static/css/main.827d8186.css",
+    "main.js": "/static/js/main.c24b86ef.js",
+    "static/media/news2.gif": "/static/media/news2.a2df64e322b0944e738e.gif",
+    "static/media/news3.gif": "/static/media/news3.e74146a9301b96632f94.gif",
+    "static/media/bosch_whwd_2in1-2_gif_1200x675.gif": "/static/media/bosch_whwd_2in1-2_gif_1200x675.b6839ed6b9b4ca0b2275.gif",
+    "static/media/fa-solid-900.svg": "/static/media/fa-solid-900.7a8b4f130182d19a2d7c.svg",
+    "static/media/fa-brands-400.svg": "/static/media/fa-brands-400.2f517e09eb2ca6650ff5.svg",
+    "static/media/banner1.jpg": "/static/media/banner1.8e9fc3cd66f5bed8d4ed.jpg",
+    "static/media/fa-solid-900.eot": "/static/media/fa-solid-900.9bbb245e67a133f6e486.eot",
+    "static/media/fa-solid-900.ttf": "/static/media/fa-solid-900.be9ee23c0c6390141475.ttf",
+    "static/media/banner2.jpg": "/static/media/banner2.fa23e89f25a0dcd45d7b.jpg",
+    "static/media/fa-regular-400.svg": "/static/media/fa-regular-400.4689f52cc96215721344.svg",
+    "static/media/fa-brands-400.eot": "/static/media/fa-brands-400.23f19bb08961f37aaf69.eot",
+    "static/media/fa-brands-400.ttf": "/static/media/fa-brands-400.527940b104eb2ea366c8.ttf",
+    "static/media/fa-solid-900.woff": "/static/media/fa-solid-900.eeccf4f66002c6f2ba24.woff",
+    "static/media/fa-brands-400.woff": "/static/media/fa-brands-400.2285773e6b4b172f07d9.woff",
+    "static/media/fa-solid-900.woff2": "/static/media/fa-solid-900.1551f4f60c37af51121f.woff2",
+    "static/media/fa-brands-400.woff2": "/static/media/fa-brands-400.d878b0a6a1144760244f.woff2",
+    "static/media/fa-regular-400.eot": "/static/media/fa-regular-400.77206a6bb316fa0aded5.eot",
+    "static/media/fa-regular-400.ttf": "/static/media/fa-regular-400.491974d108fe4002b2aa.ttf",
+    "static/media/fa-regular-400.woff": "/static/media/fa-regular-400.bb58e57c48a3e911f15f.woff",
+    "static/media/saws.jpg": "/static/media/saws.bff6d967064dac995b76.jpg",
+    "static/media/angle-grinders.jpg": "/static/media/angle-grinders.85824f534ba4bcfd04b0.jpg",
+    "static/media/logo1.png": "/static/media/logo1.75b8e4e7175505746ae7.png",
+    "static/media/fa-regular-400.woff2": "/static/media/fa-regular-400.7a3337626410ca2f4071.woff2",
+    "static/media/cleaning-brush_res.webp": "/static/media/cleaning-brush_res.a5b7e19143792c3ee898.webp",
+    "static/media/cartempty.webp": "/static/media/cartempty.0294b31c36a61d59b3b9.webp",
+    "index.html": "/index.html",
+    "main.827d8186.css.map": "/static/css/main.827d8186.css.map",
+    "main.c24b86ef.js.map": "/static/js/main.c24b86ef.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.827d8186.css",
+    "static/js/main.c24b86ef.js"
+  ]
+}
