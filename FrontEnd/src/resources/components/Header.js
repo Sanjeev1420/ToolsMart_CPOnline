@@ -21,8 +21,8 @@ export default function Header() {
         <Navbar.Collapse id="responsive-navbar-nav" className="justify-content-end">
           <Nav>
             <Nav.Link onClick={()=>{navigate('/')}} className='space'>Home</Nav.Link>
-            <Nav.Link href="products" className='space'>Products</Nav.Link>
-            <Nav.Link href="offers" className='space'>Offers</Nav.Link>
+            <Nav.Link href="/getallproducts" className='space'>Products</Nav.Link>
+            <Nav.Link href="/offers" className='space'>Offers</Nav.Link>
 
             <Nav.Link href="/cart" className='space'>Cart</Nav.Link>
             <Nav.Link onClick={()=>{navigate('/profile')}} className='space'>Profile</Nav.Link>
