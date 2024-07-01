@@ -23,10 +23,8 @@ app.use(
   cors({
     credentials: true,
     origin: [
-      "https://crystal-parts.web.app/",
-      "https://crystal-parts.firebaseapp.com/",
+      "https://tools-mart-cp-online.vercel.app/",
       "http://localhost:3000",
-      "https://crystalparts.rido.live",
     ],
   })
 );
