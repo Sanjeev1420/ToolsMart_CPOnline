@@ -42,8 +42,4 @@ app.use("/staff", Staffs);
 app.listen(9000, () => {
   console.log("Running...");
 });
-// const con=mongoose.connection
-// con.on('open',function()
-// {
-//     console.log("Connected ...")
-// }
+

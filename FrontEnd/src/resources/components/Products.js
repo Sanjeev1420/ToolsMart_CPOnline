@@ -16,7 +16,7 @@ export const Products = () => {
 
   const load = async () => {
     await axios
-      .get('product/getallproducts')
+      .get('/product/getallproducts')
       .then((res) => {
         setData(res.data.data.products);
         setStatus(true);

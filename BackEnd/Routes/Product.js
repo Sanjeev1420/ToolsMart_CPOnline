@@ -2,14 +2,16 @@ const express=require('express');
 const db=require('../db')
 const User=require('../Models/Registers')
 const Product = require('../Models/Products');
+
 exports.getallproducts=async(req,res)=>{
  try{
        
      const products=await Product.find({});
+     console.log('products form /getallproducts' , products);
      res.status(200).json({
       status:"success",
       data:{
-          message:"successfully got all questions",
+          message:"successfully got all products",
           products
       }
   });
@@ -19,8 +21,6 @@ exports.getallproducts=async(req,res)=>{
          res.status(500).send("Something went wrong")
          return
     }
-
-
 }
 
 exports.addproduct=async(req,res)=>{
